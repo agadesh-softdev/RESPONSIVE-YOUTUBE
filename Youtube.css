@@ -176,10 +176,18 @@ body {
   border-radius: 50%;
 }
 .videos .vid img {
-  width: 450px;
+  width: 448px;
   height: 75%;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
+}
+.videos footer .channel_logo {
+  border: 1px solid black;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  margin-top: 2%;
+  margin-left: 2%;
 }
 @media (max-width: 768px) {
   .top-bar .logo img {
